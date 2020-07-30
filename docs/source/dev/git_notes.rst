@@ -131,7 +131,7 @@ At any time you can push your feature branch (and any changes) to your github
 
     git push
 
-although the first time you will need to run
+although the first time you will need to run::
 
     git push --set-upstream origin shiny-new-feature
 
