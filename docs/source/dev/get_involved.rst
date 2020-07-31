@@ -4,7 +4,7 @@ Get Involved
 Where to Start?
 ---------------
 
-Use grep or download a tool like `grin <https://pypi.org/project/grin3/>`__
+Use grep or download a tool like `grin <https://pypi.org/project/grin3/>`_
 to search the code for TODO notes::
 
     grin -i -I "*.py*" todo

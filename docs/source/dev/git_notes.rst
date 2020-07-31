@@ -123,6 +123,14 @@ should give something like::
     #       modified:   /relative/path/to/foo.py
     #
 
+Once you've verified your commit looks okay, commit your changes::
+
+    git commit -m "create shiny new feature"
+
+Commit messages should be clear and concise. We also have an `informal commit 
+format standard 
+<https://www.statsmodels.org/devel/dev/maintainer_notes.html#commit-comments>`_ that we try to adhere to.
+
 Pushing your changes
 ~~~~~~~~~~~~~~~~~~~~
 
